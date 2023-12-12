@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there!👋, I'm Sanober Sarfaraz Ahmed</h1>
-<h3 align="center">I'm a Computer Science and Engineering sophomore from Birla Institute of Science and Technology</h3>
+<h3 align="center">I'm a Computer Science and Engineering sophomore from Birla Institute of Technology and Science </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanober494&label=Profile%20views&color=0e75b6&style=flat" alt="Sanober494" /> </p>
 <h4 align="left">Github Trophies🏆🏆</h4>
