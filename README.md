@@ -11,4 +11,5 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sanober494&show_icons=true&locale=en" alt="Sanober494" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanober494&" alt="Sanober494" /></p>
+<img align="center" src="https://github.com/Sanober494/Sanober494/blob/main/github-contribution-grid-snake.svg" width="1000" />
 
