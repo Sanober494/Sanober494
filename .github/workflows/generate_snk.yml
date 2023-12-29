@@ -21,7 +21,7 @@ jobs:
         node-version: 16
     - uses: Platane/snk@v2
       with:
-        github_user_name: ${{ github.repository_owner }}
+        github_user_name: Sanober494
         outputs: |
           github-contribution-grid-snake.svg?color_snake=#B04078&color_dots=#0d3d56, #1e6a8d, #3997c4, #5cc0f9, #b3e5ff
     - name: Commit and push
