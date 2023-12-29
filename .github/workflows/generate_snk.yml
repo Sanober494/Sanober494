@@ -25,9 +25,4 @@ jobs:
         outputs: |
           github-contribution-grid-snake.svg?color_snake=#B04078&color_dots=#0d3d56, #1e6a8d, #3997c4, #5cc0f9, #b3e5ff
     - name: Commit and push
-      run: |
-        git add .
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git commit -m "Generated snake"
-        git push origin main
+    
